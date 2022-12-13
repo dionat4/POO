@@ -1,0 +1,3 @@
+3. Explique os conceitos de downcasting. Sem downcasting o que não é possível evitar?
+Downcasting é quando o objeto se passa como se fosse um subtipo dele. Não há garantias que funcione e pode haver necessidade de conversões. O compilador só aceita se ele puder provar que o objeto se encaixará perfeitamente e seja de fato aquele objeto. Por isso deve ser explicitado pelo programador quando deseja essa ação.
+Sem Downcasting não é possivel lançar exceções que estam previstos no código e fazer conversões de tipo

@@ -1,0 +1,3 @@
+4. Explique os conceitos de classe abstrata e concreta.
+Classe abstrata é uma classe que não pode ser implementada/instanciada e vai servir de base para as outras classes.
+Classes concretas é uma subclasse de uma classe abstrata, que implementa todos os seus métodos abstratos.
